@@ -1,2 +1,5 @@
 # Harris-corner-detector-with-SIFT-descriptor
-Feature extraction by Harris corner algorithm and SIFT descriptor for matching images
+Feature extraction by Harris corner algorithm and SIFT descriptor for matching features of images.
+Here three methods are used to match the features (corner) of images.
+1) SSD (Sum of squared differences) 2) NCC ( Normalized cross-correlation) 3) SIFT descriptor
+SIFT descriptor is scale and rotation invariant.
